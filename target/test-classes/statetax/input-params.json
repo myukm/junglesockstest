@@ -1,0 +1,21 @@
+{
+  "input-1":
+  [
+    {"itemtype" : "zebra", "quantity" : "1", "state" : "ca"}
+
+  ],
+  "input-2" :
+          [
+            {"itemtype" : "zebra", "quantity" : "1", "state" : "ca"},
+            {"itemtype" : "elephant", "quantity" : "3", "state" : "ca"}
+          ],
+  "input-3":
+          [
+            {"itemtype" : "lion", "quantity" : "2", "state" : "mn"}
+          ],
+  "input-4" :
+          [
+            {"itemtype" : "lion", "quantity" : "2", "state" : "ny"},
+            {"itemtype" : "elephant", "quantity" : "3", "state" : "ny"}
+          ]
+}

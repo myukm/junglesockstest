@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JungleSocksSalesTaxTest.iml" filepath="$PROJECT_DIR$/JungleSocksSalesTaxTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junglesocks-salestax-test.iml" filepath="$PROJECT_DIR$/junglesocks-salestax-test.iml" />
     </modules>
   </component>
 </project>

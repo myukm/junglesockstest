@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="junglesocks-salestax-test" />
         <module name="JungleSocksSalesTaxTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="junglesocks-salestax-test" target="1.5" />
       <module name="JungleSocksSalesTaxTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>

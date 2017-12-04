@@ -1,0 +1,8 @@
+{
+  "taxes" : [
+    {"state": "ca", "value": "0.08"} ,
+    {"state": "ny", "value": "0.06"} ,
+    {"state": "mn", "value": "0.00"}
+    ]
+
+}

@@ -1,0 +1,9 @@
+{
+  "prices":
+  [
+    {"itemtype" : "zebra", "price" : "13"},
+    {"itemtype" : "lion", "price" : "20"},
+    {"itemtype" : "elephant", "price" : "35"},
+    {"itemtype" : "giraffe", "price" : "17"}
+  ]
+}
